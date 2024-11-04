@@ -1,0 +1,8 @@
+{
+  "prefix": "!",
+  "hostname": "example.server.com",
+  "password": "Password",
+  "port": 443,
+  "secure": true
+}
+//Find Lavalink hosts on https://lavalink.darrennathanael.com/SSL/lavalink-with-ssl/ and enter it here.
